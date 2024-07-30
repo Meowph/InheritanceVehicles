@@ -1,0 +1,14 @@
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\bin\Debug\net8.0\InheritanceVehicles.exe
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\bin\Debug\net8.0\InheritanceVehicles.deps.json
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\bin\Debug\net8.0\InheritanceVehicles.runtimeconfig.json
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\bin\Debug\net8.0\InheritanceVehicles.dll
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\bin\Debug\net8.0\InheritanceVehicles.pdb
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\obj\Debug\net8.0\InheritanceVehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\obj\Debug\net8.0\InheritanceVehicles.AssemblyInfoInputs.cache
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\obj\Debug\net8.0\InheritanceVehicles.AssemblyInfo.cs
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\obj\Debug\net8.0\InheritanceVehicles.csproj.CoreCompileInputs.cache
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\obj\Debug\net8.0\InheritanceVehicles.dll
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\obj\Debug\net8.0\refint\InheritanceVehicles.dll
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\obj\Debug\net8.0\InheritanceVehicles.pdb
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\obj\Debug\net8.0\InheritanceVehicles.genruntimeconfig.cache
+C:\Users\Burukku\workspace\csharp-proj\InheritanceVehicles\obj\Debug\net8.0\ref\InheritanceVehicles.dll
